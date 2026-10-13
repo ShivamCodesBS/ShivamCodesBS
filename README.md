@@ -12,7 +12,7 @@
 ### About me
 
 - 🚀 I don't just write code and leave it in repos — my projects go live: an e-commerce store, a travel platform with mobile apps, and a campus platform my university actually uses
-- 🔌 Equally happy debugging a REST API and holding a soldering iron — robotics and IoT are where software meets the real world for me
+- 🔌 Into robotics and IoT — I work on both the code and the hardware side
 - 🎓 B.Tech CSE @ Invertis University, Bareilly, India
 - 🎮 Off the keyboard: PC builds, gaming, and Minecraft
 
@@ -61,5 +61,5 @@
 
 <p align="center">
   <a href="https://shivamg.tech"><img src="https://img.shields.io/badge/PORTFOLIO-shivamg.tech-0d1117?style=for-the-badge&logo=aboutdotme&logoColor=00d9ff" alt="Portfolio" /></a>
-  <a href="mailto:shivam@shivamg.tech"><img src="https://img.shields.io/badge/EMAIL-shivam@shivamg.tech-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <a href="mailto:shivamg0705@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shivamg0705@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 </p>
