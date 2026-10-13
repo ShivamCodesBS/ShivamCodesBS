@@ -22,7 +22,7 @@
 |---|---|---|
 | [**Aethravia**](https://aethravia.com) | Built the complete e-commerce storefront for a body-care brand — catalogue, cart, checkout — now selling across India | 🟢 [aethravia.com](https://aethravia.com) |
 | [**TravelDekho**](https://traveldekho.live) | Built a travel booking platform for curated trips across India, and the companion iOS & Android apps | 🟢 [traveldekho.live](https://traveldekho.live) |
-| [**InvertisPrep**](https://invertisprepv2.vercel.app) | Built an academic platform for my university — previous year papers, syllabus hub, timed quizzes, ATS resume builder | 🟢 [Live](https://invertisprepv2.vercel.app) |
+| [**InvertisPrep**](https://invertisprep.in) | Built an academic platform for my university — previous year papers, syllabus hub, timed quizzes, ATS resume builder | 🟢 [invertisprep.in](https://invertisprep.in) |
 | [**Bus Saarthi**](https://github.com/ShivamCodesBS/bus-saarthi) | Working on a real-time bus tracking system — passenger & admin apps, backend, media server, edge hardware | 🔧 In progress |
 | **IoT Wars** | Built, wired and demoed a working IoT project live at a competition at my university | 🏆 |
 
