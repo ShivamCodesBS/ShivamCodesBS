@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShivamCodesBS&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" alt="Profile views" />
   <a href="https://shivamg.tech"><img src="https://img.shields.io/badge/PORTFOLIO-shivamg.tech-00d9ff?style=for-the-badge&labelColor=0d1117" alt="Portfolio" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ShivamCodesBS&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge" alt="Profile views" />
 </p>
 
 ### About me
@@ -26,40 +26,63 @@
 | [**Bus Saarthi**](https://github.com/ShivamCodesBS/bus-saarthi) | Working on a real-time bus tracking system — passenger & admin apps, backend, media server, edge hardware | 🔧 In progress |
 | **IoT Wars** | Built, wired and demoed a working IoT project live at a competition at my university | 🏆 |
 
-## Tech I work with
+## Tech stack
 
-**Software:** JavaScript · TypeScript · React · Next.js · Node.js · Python · Flutter · Tailwind CSS · Docker · Git · Linux
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Languages & Core**
 
-**Hardware:** Arduino · ESP32 · sensors & modules · robotics · circuit prototyping
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,flutter,dart,tailwind" height="40" alt="Web stack" />
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
+**Data, Tools & Infra**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,express,redis,docker,git,linux,githubactions,vercel" height="40" alt="Tools" />
+
+**Hardware**
+
+<img src="https://skillicons.dev/icons?i=cpp,c,arduino" height="40" alt="Hardware stack" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+
+</div>
 
 ## GitHub stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamCodesBS&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamCodesBS&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" height="165" alt="Top languages" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShivamCodesBS&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="400" alt="GitHub stats" />
+</td>
+<td>
+  <img src="https://streak-stats.demolab.com/?user=ShivamCodesBS&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=c9d1d9&dates=c9d1d9" width="400" alt="GitHub streak" />
+</td>
+</tr>
+</table>
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ShivamCodesBS&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=c9d1d9&dates=c9d1d9" height="165" alt="GitHub streak" />
-</p>
+### Contribution graph
 
-## Reach me
+<a href="https://github.com/ShivamCodesBS">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShivamCodesBS&bg_color=0d1117&color=c9d1d9&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
+</a>
 
-<p align="center">
-  <a href="https://shivamg.tech"><img src="https://img.shields.io/badge/PORTFOLIO-shivamg.tech-0d1117?style=for-the-badge&logo=aboutdotme&logoColor=00d9ff" alt="Portfolio" /></a>
-  <a href="mailto:shivamg0705@gmail.com"><img src="https://img.shields.io/badge/EMAIL-shivamg0705@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
-</p>
+### Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamCodesBS&no-frame=true&no-bg=true&column=7&title_color=00d9ff&text_color=c9d1d9" alt="Trophies" />
+
+## Connect with me
+
+<div align="center">
+
+<a href="https://shivamg.tech" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Portfolio" /></a>&nbsp;
+<a href="https://github.com/ShivamCodesBS" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /></a>&nbsp;
+<a href="mailto:shivamg0705@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" /></a>
+
+</div>
+
+---
+
+<img src="https://github.com/ShivamCodesBS/ShivamCodesBS/blob/output/github-contribution-snake.svg" alt="Snake animation" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,100:0d1117&height=100&section=footer" width="100%" />
